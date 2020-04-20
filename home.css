@@ -1,0 +1,57 @@
+
+.jumbotron{
+    text-align: center;
+    background:none;
+    font-family:cursive;
+    margin-bottom:0;
+}
+.sectionlight{
+    background-color: #eceeef;
+    padding: 2rem;
+
+}
+.slidespace{
+   padding-bottom: 2rem;
+}
+
+.sectiondark{
+    background-color:#cccccc;
+    padding :2rem;
+}
+.coolwrapper{
+    margin-top: 20px;
+}
+button.coolbtn{
+    background-color: red;
+    color:#ffffff;
+    display:block;
+    margin:auto;
+}
+h5.modal-title {
+    width: 100%;
+    margin:auto;
+    text-align: center;
+}
+.modalformwrapper{
+    padding: 2rem;
+}
+
+.imgcenter{
+    display: block;
+    margin:auto;
+}
+.btncenter{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width:68%;
+}
+.footerimg{
+    padding:5px 15px 5px 0px;
+    border-radius:40px;
+}
+.icons{
+  padding: 10px;
+  float: right;
+}
